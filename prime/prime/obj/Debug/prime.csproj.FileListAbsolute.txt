@@ -1,0 +1,8 @@
+C:\Users\Shining 3D\source\repos\prime\prime\bin\Debug\prime.exe.config
+C:\Users\Shining 3D\source\repos\prime\prime\bin\Debug\prime.exe
+C:\Users\Shining 3D\source\repos\prime\prime\bin\Debug\prime.pdb
+C:\Users\Shining 3D\source\repos\prime\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\Shining 3D\source\repos\prime\prime\obj\Debug\prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shining 3D\source\repos\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\Shining 3D\source\repos\prime\prime\obj\Debug\prime.exe
+C:\Users\Shining 3D\source\repos\prime\prime\obj\Debug\prime.pdb

@@ -1,0 +1,8 @@
+C:\Users\Shining 3D\source\repos\perfect\perfect\bin\Debug\perfect.exe.config
+C:\Users\Shining 3D\source\repos\perfect\perfect\bin\Debug\perfect.exe
+C:\Users\Shining 3D\source\repos\perfect\perfect\bin\Debug\perfect.pdb
+C:\Users\Shining 3D\source\repos\perfect\perfect\obj\Debug\perfect.csproj.AssemblyReference.cache
+C:\Users\Shining 3D\source\repos\perfect\perfect\obj\Debug\perfect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shining 3D\source\repos\perfect\perfect\obj\Debug\perfect.csproj.CoreCompileInputs.cache
+C:\Users\Shining 3D\source\repos\perfect\perfect\obj\Debug\perfect.exe
+C:\Users\Shining 3D\source\repos\perfect\perfect\obj\Debug\perfect.pdb
